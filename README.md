@@ -3,10 +3,10 @@
 The 253 VPFIT Voigt profile models fitted for my doctoral thesis, published alongside the thesis
 itself. The thesis presents the results; these are the models those results were computed from.
 
-**[Testing the fundamental laws of physics using quasar absorption lines](https://github.com/mwilczynska/PhD-Thesis-VPFIT-Voigt-profile-models/releases/download/thesis-2019/Wilczynska_2019_PhD_thesis.pdf)**
+**[Testing the fundamental laws of physics using quasar absorption lines](https://github.com/mwilczynska/PhD-Thesis-VPFIT-Voigt-profile-models/releases/download/phd-thesis-2019/Wilczynska_2019_PhD_thesis.pdf)**
 Michael R. Wilczynska. PhD thesis, UNSW, March 2019. 608 pages.
 
-The thesis is attached to [the 2019 release](https://github.com/mwilczynska/PhD-Thesis-VPFIT-Voigt-profile-models/releases/tag/thesis-2019) rather than committed to the repository, so cloning the models does not pull a 46 MB PDF with them.
+The thesis is attached to [the 2019 release](https://github.com/mwilczynska/PhD-Thesis-VPFIT-Voigt-profile-models/releases/tag/phd-thesis-2019) rather than committed to the repository, so cloning the models does not pull a 46 MB PDF with them.
 
 ## The models
 
